@@ -83,6 +83,18 @@ ul, ol {
 .uppercase {
     text-transform: uppercase;
 }
+.trans-300-ease {
+    transition: all 300ms ease;
+}
+.trans-300-easein {
+    transition: all 300ms ease-in;
+}
+.trans-300-easeout {
+    transition: all 300ms ease-out;
+}
+.fff {
+    color: #fff;
+}
 .col-1 {
     flex-basis: 8.33%;
 }
